@@ -3,8 +3,9 @@
 using namespace std;
 
 int main(){
+	
 	//Demo Vector
-	//vector<int> arr =  //{1,2,10,12,15};
+	vector<int> arr =  {1,2,10,12,15};
 
 	//Fill Constructor
 	vector<int> arr(10,7);
